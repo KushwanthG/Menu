@@ -8,15 +8,15 @@ ul{
 }
 
 ul li a{
-    height:20rem;
-    width: 20rem;
-    border: 1px solid;
+    height:35rem;
+    width: 15rem;
+    border: 2px solid;
     border-radius: 1rem;
-    margin:0.5rem;
+    margin: 1rem;
     display: flex;
     flex-direction:column;
     overflow: hidden;
-    color: brown;
+    color: rgb(0, 0, 0);
 }
 
 li a:hover{
